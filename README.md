@@ -88,3 +88,25 @@ Final Verdict
 - Social media monitoring
 - Source credibility scoring
 - Multilingual support
+
+## Project Screenshots
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Fake News Detection
+
+![Fake News](fake_news.png)
+
+### Live Verification
+
+![Live Verification](live_verification.png)
+
+### Real News Example
+
+![Real News](real_news1.png)
+
+### Trust Score & Final Verdict
+
+![Trust Score](real_news2.png)
