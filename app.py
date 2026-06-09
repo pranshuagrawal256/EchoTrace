@@ -350,7 +350,7 @@ analyze news sources and classify headlines using AI.
 # DATABASE
 # --------------------------------------------------
 
-conn = sqlite3.connect("database/echotrace.db")
+conn = sqlite3.connect("echotrace.db")
 
 query = """
 SELECT
