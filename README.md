@@ -1,4 +1,9 @@
 # EchoTrace
+Live Demo:
+https://echotrace-ai.streamlit.app
+
+GitHub:
+https://github.com/pranshuagrawal256/EchoTrace
 
 ## The Internet's Early Warning System for Viral Misinformation
 
